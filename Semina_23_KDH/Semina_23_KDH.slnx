@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Semina/Semina.vcxproj" Id="e89012a5-95ec-420e-bcf2-fbd379198c8d" />
+</Solution>
